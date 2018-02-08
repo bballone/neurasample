@@ -1,0 +1,6 @@
+framework module Pods_Neura_Swift_Sample_App {
+  umbrella header "Pods-Neura Swift Sample App-umbrella.h"
+
+  export *
+  module * { export * }
+}
