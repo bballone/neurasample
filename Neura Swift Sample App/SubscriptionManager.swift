@@ -14,16 +14,16 @@ class SubscriptionsManager {
     
     let requiredSubscriptions: Set<String> = [
         EventName.eventArrivedHome.rawValue,
-//        EventName.eventLeftHome.rawValue,
+        EventName.eventLeftHome.rawValue,
         EventName.eventArrivedToWork.rawValue,
-//        EventName.eventLeftWork.rawValue,
-//        EventName.eventStartedDriving.rawValue,
-//        EventName.eventFinishedDriving.rawValue,
-//        EventName.eventStartedSleeping.rawValue,
-//        EventName.eventGotUp.rawValue,
-//        EventName.eventStartedWalking.rawValue,
-//        EventName.eventWokeUp.rawValue,
-//        EventName.eventFinishedWalking.rawValue
+        EventName.eventLeftWork.rawValue,
+        EventName.eventStartedDriving.rawValue,
+        EventName.eventFinishedDriving.rawValue,
+        EventName.eventStartedSleeping.rawValue,
+        EventName.eventGotUp.rawValue,
+        EventName.eventStartedWalking.rawValue,
+        EventName.eventWokeUp.rawValue,
+        EventName.eventFinishedWalking.rawValue
     ]
     
     var missingSubscriptions: Set<String> = []
