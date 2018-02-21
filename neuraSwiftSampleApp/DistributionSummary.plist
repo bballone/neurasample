@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Neura Swift Sample App.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>2E6ED6B7096FECC883C51FCCEFE03C8164708523</string>
+				<key>dateExpires</key>
+				<string>1/26/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>2E6ED6B7096FECC883C51FCCEFE03C8164708523</string>
+						<key>dateExpires</key>
+						<string>1/26/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>NeuraSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YMLHJ4F6Z5</string>
+						<key>name</key>
+						<string>USAA (Ent R&amp;D)</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>YMLHJ4F6Z5.com.usaa.neura.appv2</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>YMLHJ4F6Z5</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Neura Swift Sample App.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>fd8fbefd-3869-4298-8814-27a519b45281</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.usaa.neura.appv2</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>YMLHJ4F6Z5</string>
+				<key>name</key>
+				<string>USAA (Ent R&amp;D)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
